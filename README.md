@@ -1,1 +1,1 @@
-Random values are generated in the pair of die using excel.
+Random values are generated on the pair of die using excel.
